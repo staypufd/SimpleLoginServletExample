@@ -5,7 +5,7 @@
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
 <title>Your Logged In</title>
 </head>
-<body>
+<body>  
   	<form action="login" method="post">
 		<input type="hidden" name="action" value="login">
 		
