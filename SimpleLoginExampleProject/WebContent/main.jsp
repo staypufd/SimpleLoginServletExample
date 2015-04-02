@@ -9,5 +9,7 @@
   <p>This is the main page.</p>
   
 ${name }
+
+ <a href="${pageContext.request.contextPath}/AnotherServlet">Go to AnotherServlet</a>
 </body>
 </html>
